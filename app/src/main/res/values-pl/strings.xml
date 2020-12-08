@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MojeNawyki</string>
+    <string name="done">Zrobione</string>
+    <string name="sort_by">Sortować według</string>
+    <string name="language">Język</string>
+    <string name="english">Angielski</string>
+    <string name="polish">Polski</string>
+    <string name="spanish">Hiszpański</string>
+    <string name="hungarian">Węgierski</string>
+    <string name="a_to_z"><![CDATA[A->Z]]></string>
+    <string name="z_to_a"><![CDATA[Z->A]]></string>
+    <string name="ascending">W górę</string>
+    <string name="descending">W dół</string>
+    <string name="delete">Usuń</string>
+    <string name="hide">Ukryć</string>
+    <string name="settings">Ustawienia</string>
+    <string name="name">Nazwa:</string>
+    <string name="description">Opis:</string>
+    <string name="imageURL">URL obrazku:</string>
+    <string name="cancel">Anuluj</string>
+    <string name="ok">OK</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="delete_item">Usuń element</string>
+    <string name="delete_message">Czy na pewno chcesz usunąć ten element?</string>
+
+    <string name="edit">Edytuj</string>
+    <string name="statistics">Statystyki</string>
+
+    <string name="go_to_login">Już masz konto? Zaloguj się <u>tutaj</u></string>
+    <string name="go_to_register">Nie masz konta? Zarejestruj się <u>tutaj</u></string>
+    <string name="logout">Wyloguj</string>
+</resources>

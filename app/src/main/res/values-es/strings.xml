@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MisHábitos</string>
+    <string name="done">Hecho</string>
+    <string name="sort_by">Ordenar por</string>
+    <string name="language">Idioma</string>
+    <string name="english">Inglés</string>
+    <string name="polish">Polaco</string>
+    <string name="spanish">Español</string>
+    <string name="hungarian">Húngaro</string>
+    <string name="a_to_z"><![CDATA[A->Z]]></string>
+    <string name="z_to_a"><![CDATA[Z->A]]></string>
+    <string name="ascending">Hacia arriba</string>
+    <string name="descending">Hacia abajo</string>
+    <string name="delete">Eliminar</string>
+    <string name="hide">Hide</string>
+    <string name="settings">Ajustes</string>
+    <string name="name">Título:</string>
+    <string name="description">Descripción:</string>
+    <string name="imageURL">URL de la imagen:</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="delete_item">Delete item</string>
+    <string name="delete_message">¿Estás seguro de que quieres eliminar éste ítem?</string>
+    <string name="edit">Editar</string>
+    <string name="statistics">Estadísticas</string>
+
+    <string name="go_to_login">Already registered? Login <u>here</u></string>
+    <string name="go_to_register">Don\'t have an account? Register <u>here</u></string>
+    <string name="logout">Logout</string>
+</resources>

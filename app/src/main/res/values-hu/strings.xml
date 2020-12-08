@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Szokásaim</string> //MyHabits
+    <string name="done">Done</string>
+    <string name="sort_by">Rendezés eszerint</string>
+    <string name="language">Nyelv</string>
+    <string name="english">Angol</string>
+    <string name="polish">Lengyel</string>
+    <string name="spanish">Spanyol</string>
+    <string name="hungarian">Magyar</string>
+    <string name="a_to_z"><![CDATA[A->Z]]></string>
+    <string name="z_to_a"><![CDATA[Z->A]]></string>
+    <string name="ascending">Fel</string>
+    <string name="descending">Le</string>
+    <string name="delete">Törlés</string>
+    <string name="hide">Hide</string>
+    <string name="settings">Beállítások</string>
+    <string name="name">Megnevezés:</string>
+    <string name="description">Leírás:</string>
+    <string name="imageURL">ImageURL:</string>
+    <string name="cancel">Mégse</string>
+    <string name="ok">OK</string>
+    <string name="yes">Igen</string>
+    <string name="no">Nem</string>
+    <string name="delete_item">Elem törlése</string>
+    <string name="delete_message">Biztosan törölni szeretné ezt az elemet?</string>
+
+    <string name="edit">Szerkesztés</string>
+    <string name="statistics">Statisztika</string>
+
+    <string name="go_to_login">Already registered? Login <u>here</u></string>
+    <string name="go_to_register">Don\'t have an account? Register <u>here</u></string>
+    <string name="logout">Logout</string>
+</resources>

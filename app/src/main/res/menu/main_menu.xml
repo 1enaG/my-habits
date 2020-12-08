@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_addHabit" android:title="Add Habit" android:icon="@drawable/ic_add_white" app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_sort"
+        android:title="@string/sort_by"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/menu_sort_aToZ"
+                android:title="@string/a_to_z" />
+            <item
+                android:id="@+id/menu_sort_zToA"
+                android:title="@string/z_to_a" />
+            <item
+                android:id="@+id/menu_sort_idAscending"
+                android:title="@string/ascending" />
+            <item
+                android:id="@+id/menu_sort_idDescending"
+                android:title="@string/descending" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menu_lang"
+        android:title="@string/language">
+        <menu>
+            <item
+                android:id="@+id/menu_lang_en"
+                android:title="@string/english" />
+            <item
+                android:id="@+id/menu_lang_pl"
+                android:title="@string/polish" />
+            <item
+                android:id="@+id/menu_lang_sp"
+                android:title="@string/spanish" />
+            <item
+                android:id="@+id/menu_lang_hu"
+                android:title="@string/hungarian" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menu_settings"
+        android:title="@string/settings" />
+    <item
+        android:id="@+id/menu_logout"
+        android:title="@string/logout" />
+
+</menu>
